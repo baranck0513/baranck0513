@@ -1,4 +1,4 @@
-## Hello I'm Barancem 👋
+## 👋 Hello I'm Barancem 
 
 I am a second year **Computer Science** student and aspiring **cybersecurity professional**.
 
