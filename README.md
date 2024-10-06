@@ -1,6 +1,6 @@
 ## Hello I'm Barancem 👋
 
-I am second year **Computer Science** student and aspiring **cybersecurity professional**.
+I am a second year **Computer Science** student and aspiring **cybersecurity professional**.
 
 ---
 
