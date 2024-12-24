@@ -1,16 +1,10 @@
 ## 👋 Hello I'm Barancem 
 
-I am a second year **Computer Science** student and aspiring **cybersecurity professional**.
+I am a second year **Computer Science** student.
 
 ---
 
 ## 🛠️ Technologies & Tools
-- Programming: Python, SQL, C/C++
-- Cybersecurity: Vulnerability assessment, Malware analysis
-- Other tools: Linux, Wireshark, VirtualBox
-
----
-
-## 🌱 Currently Learning
-- Web Development
-- Advanced networking and security protocols
+- Programming: Python, C++
+- Tools: Git, Godot
+- Linux
