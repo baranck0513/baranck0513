@@ -1,10 +1,11 @@
-## 👋 Hello I'm Barancem 
+### 👋 Hi there, I'm Barancem 
 
-I am a second year **Computer Science** student.
+## I am a Computer Science student
 
----
+- 🔭 I am looking for work as a Front-end Developer in a graduate position
+- 🌱 I am trying to learn everything 😂
 
-## 🛠️ Technologies & Tools
-- Programming: Python, Java
-- Technical Skills: Git, Data Structures and Algorithms
+<br />
+
+### Languages and Tools:
 
