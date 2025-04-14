@@ -2,7 +2,7 @@
 
 ## I'm a Computer Science student
 
-- 🔭 I am looking for work as a Front-end Developer in a graduate position
+- 🔭 I am looking for work as a Front-end Developer
 - 🌱 I am trying to learn everything 🤨
 - 👀 I am looking to contribute to more open source projects 
 
