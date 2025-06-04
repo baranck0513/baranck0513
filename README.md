@@ -6,8 +6,6 @@
 - 🌱 I am trying to learn everything
 - 👀 I am looking to contribute to more open source projects 
 
-<br />
-
 ### Languages and Tools:
 <p align="center">
 
