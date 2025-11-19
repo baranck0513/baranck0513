@@ -1,4 +1,4 @@
-<h1 align="center=">Hi 👋 I'm Barancem</h1>
+<h1 align="center">Hi 👋 I'm Barancem</h1>
 
 # About me:
 I am a third-year computer science student at Oxford Brookes University, passionate about backend development, machine learning.
