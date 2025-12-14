@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Barancem</h1>
 
 # About me:
-I am a third-year computer science student at Oxford Brookes University, passionate about backend development, machine learning.
+I am a third-year computer science student at Oxford Brookes University
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barancem/)
