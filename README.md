@@ -1,8 +1,3 @@
-<h1 align="center">Hi, I'm Barancem</h1>
-
-## About Me
-Third-year Computer Science student at
-
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/barancem/
 
